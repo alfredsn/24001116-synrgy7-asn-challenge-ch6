@@ -1,3 +1,4 @@
-Login Credentials
-Username: admin 
-Password: admin123
+## Login Credentials
+
+**Username:** admin  
+**Password:** admin123
