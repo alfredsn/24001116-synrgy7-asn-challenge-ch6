@@ -1,5 +1,4 @@
-
-## **Connect - Final Project**
+##**Connect - Final Project**
 
 **Version 1.1.5**  
 **Platform:** Website and Android  
