@@ -1,12 +1,5 @@
-To create a README layout for your GitHub project, I'll need to review the key details from the document you provided. I'll extract relevant information and then structure it into a well-organized README template.
 
-Give me a moment to analyze the document.
-
-Based on the details from your document, here's a suggested layout for your GitHub README:
-
----
-
-# **Connect - Final Project**
+## **Connect - Final Project**
 
 **Version 1.1.5**  
 **Platform:** Website and Android  
