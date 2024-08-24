@@ -6,20 +6,21 @@
 </a>
 </div>
 
-## **Table of Contents**
-- [Project Overview](#project-overview)
-- [Problem Statement](#problem-statement)
-- [Objective](#objective)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Accessibility](#accessibility)
-- [Team](#team)
-- [Links](#links)
-- [Contact](#contact)
-
+<div align="center">
+## Table of Contents
+ **[Project Overview](#project-overview) •
+ [Problem Statement](#problem-statement) •
+ [Objective](#objective) •
+ [Features](#features) •
+ [Getting Started](#getting-started) •
+ [Prerequisites](#prerequisites) •
+ [Installation](#installation) •
+ [Usage](#usage) •
+ [Accessibility](#accessibility) •
+ [Team](#team) •
+ [Links](#links) •
+ [Contact](#contact)**
+</div>
 ---
 
 ## **Project Overview**
