@@ -12,6 +12,7 @@
   <a href="#-problem-statement">Problem</a> •
   <a href="#-objective">Objective</a> •
   <a href="#-features">Features</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
   <a href="#-getting-started">Getting Started</a> •
   <a href="#-usage">Usage</a> •
   <a href="#-accessibility">Accessibility</a> •
@@ -46,6 +47,20 @@ Managing finances is a crucial part of daily life, and mobile banking applicatio
 - 💸 **Fund Transfers:** Seamless money transfers between accounts
 - 👤 **Profile Management:** Easy-to-update user profile information
 - 🔍 **Accessibility Mode:** Enhanced features for visually impaired users
+
+<details>
+  <summary>🛠 Tech Stack</summary>
+  
+  The application leverages a robust set of technologies and frameworks to ensure a scalable, maintainable, and high-performance solution:
+
+  - **MVVM Architecture:** Separation of concerns with clear layers for better testability and maintainability.
+  - **Retrofit:** A type-safe HTTP client for consuming RESTful APIs.
+  - **Modularization:** Break down the application into smaller, self-contained modules for better organization and reusability.
+  - **Dependency Injection with Koin:** Simplifies the management of dependencies and allows for better testability.
+  - **Firebase:** Used for real-time data management, authentication, and cloud storage.
+  - **Mockito:** For unit testing, enabling the simulation of dependencies and verification of interactions.
+  
+</details>
 
 ## 🚀 Getting Started
 
