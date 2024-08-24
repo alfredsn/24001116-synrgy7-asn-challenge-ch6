@@ -32,17 +32,9 @@ Managing finances is a crucial part of daily life, and mobile banking applicatio
 - Ensure the application is easy to use for visually impaired users.
 - Incorporate user feedback to continuously enhance the application's features.
 
-## **Success Metrics**
-- Increase active users by 5% monthly, focusing on visually impaired users.
-- Reduce user churn rate by 30% in the first year.
-- Improve user satisfaction by 40%.
-- Increase transaction success rates.
-- Achieve a 50% retention rate of visually impaired users within 12 months.
-
 ---
 
 ## **Features**
-- **Secure Login:** Biometric and PIN-based authentication for enhanced security.
 - **Account Balance:** Real-time balance checking with toggleable visibility.
 - **Transaction History:** Detailed and filterable transaction records.
 - **QRIS Payments:** Quick and easy QR code-based payments and transfers.
@@ -94,7 +86,7 @@ The application has been designed with accessibility in mind, featuring:
 ---
 
 ## **Links**
-- [Empathy Map](#)
+- [Empathy Map](https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=193-1328&t=xx0sVpEItSuLakjr-4)
 - [User Persona](#)
 - [Customer Journey Map](#)
 - [LoFi & HiFi Design](#)
