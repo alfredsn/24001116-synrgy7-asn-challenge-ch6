@@ -86,25 +86,35 @@ These instructions will guide you through setting up and running the Android pro
 4. **Make Payments:** Use the QRIS feature for quick payments or transfer funds directly.
 
 ## 🔍 Accessibility
-The application has been designed with accessibility as a priority, featuring:
-- Screen reader support for visually impaired users
-- High-contrast mode and customizable font sizes
-- Voice commands for key functionalities
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Screen%20Reader-Support-blue?style=for-the-badge&logo=android" alt="Screen Reader Support">
+  <img src="https://img.shields.io/badge/High%20Contrast-Mode-purple?style=for-the-badge&logo=android" alt="High Contrast Mode">
+  <img src="https://img.shields.io/badge/Voice-Commands-green?style=for-the-badge&logo=android" alt="Voice Commands">
+</p>
 
 ## 👥 Android Team
-- **Puay12**: Putri Ayu Nisa Az-Zahra *(PIC Android)*
-- **alfredsn**: Alfred Sahala Nainggolan *(Android Developer)*
-- **MZannn**: Muhammad Fauzan *(Android Developer)*
-- **Hen2721**: Hendardi Yoga Pratama *(Android Developer)*
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Puay12"><img src="https://github.com/Puay12.png" width="100px;" alt=""/><br /><sub><b>Putri Ayu Nisa Az-Zahra</b></sub></a><br />PIC Android</td>
+    <td align="center"><a href="https://github.com/alfredsn"><img src="https://github.com/alfredsn.png" width="100px;" alt=""/><br /><sub><b>Alfred Sahala Nainggolan</b></sub></a><br />Android Developer</td>
+    <td align="center"><a href="https://github.com/MZannn"><img src="https://github.com/MZannn.png" width="100px;" alt=""/><br /><sub><b>Muhammad Fauzan</b></sub></a><br />Android Developer</td>
+    <td align="center"><a href="https://github.com/Hen2721"><img src="https://github.com/Hen2721.png" width="100px;" alt=""/><br /><sub><b>Hendardi Yoga Pratama</b></sub></a><br />Android Developer</td>
+  </tr>
+</table>
 
 ## 🔗 Links
-- [Empathy Map](https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=193-1328&t=xx0sVpEItSuLakjr-4)
-- [User Persona](https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=158-433&t=q0VfNfzQwHRqhJKN-4)
-- [User Journey Map](https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=190-1099&t=q0VfNfzQwHRqhJKN-4)
-- [LoFi Design & Prototype](https://www.figma.com/design/6tGY7n0fyn22JSvy5HTM8h/Connect-Final-Project?node-id=4623-5866)
-- [HiFi Design & Prototype](https://www.figma.com/design/6tGY7n0fyn22JSvy5HTM8h/Connect-Final-Project?node-id=3987-1958&t=0Qo6Hb7Y8Ck9mGRA-1)
-- [Flowchart](https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=193-1324&t=uLIfM6d0XnMY4tM2-4)
-- [UX Research Documentation](https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=140-488&t=o9R3a2uR8pMIp1yl-4)
+
+<p align="center">
+  <a href="https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=193-1328&t=xx0sVpEItSuLakjr-4"><img src="https://img.shields.io/badge/Empathy%20Map-Figma-F24E1E?style=for-the-badge&logo=figma" alt="Empathy Map"></a>
+  <a href="https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=158-433&t=q0VfNfzQwHRqhJKN-4"><img src="https://img.shields.io/badge/User%20Persona-Figma-F24E1E?style=for-the-badge&logo=figma" alt="User Persona"></a>
+  <a href="https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=190-1099&t=q0VfNfzQwHRqhJKN-4"><img src="https://img.shields.io/badge/User%20Journey%20Map-Figma-F24E1E?style=for-the-badge&logo=figma" alt="User Journey Map"></a>
+  <a href="https://www.figma.com/design/6tGY7n0fyn22JSvy5HTM8h/Connect-Final-Project?node-id=4623-5866"><img src="https://img.shields.io/badge/LoFi%20Design-Figma-F24E1E?style=for-the-badge&logo=figma" alt="LoFi Design"></a>
+  <a href="https://www.figma.com/design/6tGY7n0fyn22JSvy5HTM8h/Connect-Final-Project?node-id=3987-1958&t=0Qo6Hb7Y8Ck9mGRA-1"><img src="https://img.shields.io/badge/HiFi%20Design-Figma-F24E1E?style=for-the-badge&logo=figma" alt="HiFi Design"></a>
+  <a href="https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=193-1324&t=uLIfM6d0XnMY4tM2-4"><img src="https://img.shields.io/badge/Flowchart-Figma-F24E1E?style=for-the-badge&logo=figma" alt="Flowchart"></a>
+  <a href="https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=140-488&t=o9R3a2uR8pMIp1yl-4"><img src="https://img.shields.io/badge/UX%20Research-Figma-F24E1E?style=for-the-badge&logo=figma" alt="UX Research"></a>
+</p>
 
 ## 📞 Contact
   *For more information or support, please contact the contributors or the **SYNRGY Academy team**.*
