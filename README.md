@@ -86,11 +86,12 @@ The application has been designed with accessibility in mind, featuring:
 
 ## **Links**
 - [Empathy Map](https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=193-1328&t=xx0sVpEItSuLakjr-4)
-- [User Persona](#)
-- [Customer Journey Map](#)
-- [LoFi & HiFi Design](#)
-- [Flowchart](#)
-- [UX Research Documentation](#)
+- [User Persona](https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=158-433&t=q0VfNfzQwHRqhJKN-4)
+- [Customer Journey Map](https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=190-1099&t=q0VfNfzQwHRqhJKN-4)
+- [LoFi Design & Prototype](https://www.figma.com/design/6tGY7n0fyn22JSvy5HTM8h/Connect-Final-Project?node-id=4623-5866)
+- [Hifi Design & Prototype](https://www.figma.com/design/6tGY7n0fyn22JSvy5HTM8h/Connect-Final-Project?node-id=3987-1958&t=0Qo6Hb7Y8Ck9mGRA-1)
+- [Flowchart](https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=193-1324&t=uLIfM6d0XnMY4tM2-4)
+- [UX Research Documentation](https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=140-488&t=o9R3a2uR8pMIp1yl-4)
 
 ---
 
