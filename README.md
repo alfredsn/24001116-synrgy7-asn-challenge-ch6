@@ -130,7 +130,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## **Contact**
 For more information or support, please contact the contributors or the SYNRGY Academy team.
-
----
-
-This README is now fully optimized and includes all the necessary sections. Let me know if there are any more adjustments you'd like!
