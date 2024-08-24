@@ -115,12 +115,8 @@ The application has been designed with accessibility as a priority, featuring:
 </p>
 
 ## 📞 Contact
-  <p align="center">For more information or support, please contact the contributors or the SYNRGY Academy team.</p>
+
+ For more information or support, please contact the contributors or the **SYNRGY Academy team**.
 
 ---
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
-  <br>
-  <img src="https://img.shields.io/badge/SYNRGY7-Kelompok%206-00C7B7?style=for-the-badge&logo=android&logoColor=white" alt="SYNRGY7 Kelompok 6">
-</div>
+<div align="center"> Made with ❤️ by SYNRGY7 Kelompok 6 </div>
