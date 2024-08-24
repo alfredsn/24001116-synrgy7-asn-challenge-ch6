@@ -15,8 +15,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Accessibility](#accessibility)
-- [Contributing](#contributing)
-- [License](#license)
 - [Team](#team)
 - [Links](#links)
 - [Contact](#contact)
@@ -66,24 +64,13 @@ These instructions will guide you through setting up and running the project on 
 ### **Installation**
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/connect.git
+   git clone https://github.com/SYNRGY7-Kelompok-6/connect-bca-mobile.git
    ```
-2. **Install Dependencies**
-   ```bash
-   npm install
-   ```
-3. **Set Up the Environment**
-   - Add your API keys and environment variables to a `.env` file.
-
-4. **Run the Application**
-   ```bash
-   npm start
-   ```
-
+   
 ---
 
 ## **Usage**
-- **Login:** Enter your credentials or use biometric authentication.
+- **Login:** Enter your credentials.
 - **Navigate:** Use the accessible navigation bar to move through different sections.
 - **Check Balance:** View your real-time account balance on the home screen.
 - **Make Payments:** Use the QRIS feature for quick payments or transfer funds directly.
@@ -98,23 +85,11 @@ The application has been designed with accessibility in mind, featuring:
 
 ---
 
-## **Contributing**
-We welcome contributions to enhance the application further. Please fork the repository and submit a pull request.
-
-### **Guidelines**
-- Follow the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
-- Ensure your code passes all linting and testing checks before submission.
-
----
-
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## **Team**
-- **Product Manager:** Nia Millatul Izza
-- **Quality Assurance:** Rony Samuel Sinaga
+## **Android Team**
+- **Puay12**: Putri Ayu Nisa Az-Zahra *(PIC Android)*
+- **alfredsn**: Alfred Sahala Nainggolan *(Android Developer)*
+- **MZannn**: Muhammad Fauzan *(Android Developer)*
+- **Hen2721**: Hendardi Yoga Pratama *(Android Developer)*
 
 ---
 
