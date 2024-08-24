@@ -21,12 +21,12 @@
 </p>
 
 </div>
-</br>
 
 ## 🌟 Project Overview
 
 Connect is an innovative digital banking application designed to enhance accessibility for visually impaired users. Our mission is to make financial management through mobile and internet banking more inclusive and user-friendly.
-</br>
+
+---
 ## 🔍 Problem Statement
 
 Managing finances is a crucial part of daily life, and mobile banking applications are widely used for this purpose. However, many of these applications lack accessibility features, making them challenging for visually impaired users. This project addresses the need for an accessible digital banking solution tailored for the visually impaired community.
@@ -61,7 +61,7 @@ These instructions will guide you through setting up and running the Android pro
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/SYNRGY7-Kelompok-6/connect-bca-mobile.git
-   ```
+
 2. **Open the project in Android Studio.**
 3. **Sync Gradle files.**
 4. **Run the app** on an emulator or physical device.
@@ -94,6 +94,6 @@ The application has been designed with accessibility as a priority, featuring:
 - [UX Research Documentation](https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=140-488&t=o9R3a2uR8pMIp1yl-4)
 
 ## 📞 Contact
-*For more information or support, please contact the contributors or the **SYNRGY Academy team**.*
+- *For more information or support, please contact the contributors or the **SYNRGY Academy team**.*
 
 <div align="center"> Made with ❤️ by SYNRGY7 Kelompok 6 </div> ```
