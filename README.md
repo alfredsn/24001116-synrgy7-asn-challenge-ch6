@@ -8,7 +8,6 @@
 - [Project Overview](#project-overview)
 - [Problem Statement](#problem-statement)
 - [Objective](#objective)
-- [Success Metrics](#success-metrics)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
