@@ -53,16 +53,16 @@ Managing finances is a crucial part of daily life, and mobile banking applicatio
 ---
 
 ## **Getting Started**
-These instructions will guide you through setting up and running the project on your local machine for development and testing purposes.
+These instructions will guide you through setting up and running the Android project on your local machine for development and testing purposes.
 
 ### **Prerequisites**
-- Android Studio
-- Java Development Kit (JDK)
-- Node.js and npm (for the web version)
-- Android SDK
+- **Android Studio:** The official IDE for Android development.
+- **Java Development Kit (JDK):** Required for Android development (JDK 8 or higher recommended).
+- **Android SDK:** Ensure that the Android SDK is installed and up to date.
 
 ### **Installation**
 1. **Clone the Repository**
+
    ```bash
    git clone https://github.com/SYNRGY7-Kelompok-6/connect-bca-mobile.git
    ```
