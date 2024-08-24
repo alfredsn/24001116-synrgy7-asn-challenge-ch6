@@ -6,22 +6,22 @@
 </a>
 </div>
 
+<br />
 <div align="center">
-## Table of Contents
- **[Project Overview](#project-overview) •
- [Problem Statement](#problem-statement) •
- [Objective](#objective) •
- [Features](#features) •
- [Getting Started](#getting-started) •
- [Prerequisites](#prerequisites) •
- [Installation](#installation) •
- [Usage](#usage) •
- [Accessibility](#accessibility) •
- [Team](#team) •
- [Links](#links) •
- [Contact](#contact)**
+<b><a href="#project-overview">PROJECT OVERVIEW</a> • 
+<a href="#problem-statement">PROBLEM STATEMENT</a> • 
+<a href="#objective">OBJECTIVE</a> • 
+<a href="#features">FEATURES</a> • 
+<a href="#getting-started">GETTING STARTED</a> • 
+<a href="#prerequisites">PREREQUISITES</a> • 
+<a href="#installation">INSTALLATION</a> • 
+<a href="#usage">USAGE</a> • 
+<a href="#accessibility">ACCESSIBILITY</a> • 
+<a href="#team">TEAM</a> • 
+<a href="#links">LINKS</a> • 
+<a href="#contact">CONTACT</a></b>
 </div>
----
+<br />
 
 ## **Project Overview**
 This project aims to enhance the accessibility of digital banking applications, particularly for visually impaired users. The application, **Connect**, is designed to make financial management through mobile and internet banking more inclusive and user-friendly.
