@@ -60,34 +60,39 @@ These instructions will guide you through setting up and running the Android pro
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/SYNRGY7-Kelompok-6/connect-bca-mobile.git
-Open the project in Android Studio.
-Sync Gradle files.
-Run the app on an emulator or physical device.
-📱 Usage
-Login: Enter your credentials.
-Navigate: Use the accessible navigation bar to move through different sections.
-Check Balance: View your real-time account balance on the home screen.
-Make Payments: Use the QRIS feature for quick payments or transfer funds directly.
-🔍 Accessibility
-The application has been designed with accessibility as a priority, featuring:
+   ```
+2. **Open the project in Android Studio.**
+3. **Sync Gradle files.**
+4. **Run the app** on an emulator or physical device.
+   
+## 📱 Usage
+1. **Login:** Enter your credentials.
+2. **Navigate:** Use the accessible navigation bar to move through different sections.
+3. **Check Balance:** View your real-time account balance on the home screen.
+4. **Make Payments:** Use the QRIS feature for quick payments or transfer funds directly.
 
-Screen reader support for visually impaired users
-High-contrast mode and customizable font sizes
-Voice commands for key functionalities
-👥 Android Team
-Putri Ayu Nisa Az-Zahra - Android Developer
-Alfred Sahala Nainggolan - Android Developer
-Muhammad Fauzan - Android Developer
-Hendardi Yoga Pratama - Android Developer
-🔗 Links
-Empathy Map
-User Persona
-Customer Journey Map
-LoFi Design & Prototype
-HiFi Design & Prototype
-Flowchart
-UX Research Documentation
-📞 Contact
+## 🔍 Accessibility
+The application has been designed with accessibility as a priority, featuring:
+- Screen reader support for visually impaired users
+- High-contrast mode and customizable font sizes
+- Voice commands for key functionalities
+
+## 👥 Android Team
+- **Puay12**: Putri Ayu Nisa Az-Zahra *(PIC Android)*
+- **alfredsn**: Alfred Sahala Nainggolan *(Android Developer)*
+- **MZannn**: Muhammad Fauzan *(Android Developer)*
+- **Hen2721**: Hendardi Yoga Pratama *(Android Developer)*
+
+## 🔗 Links
+- [Empathy Map](https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=193-1328&t=xx0sVpEItSuLakjr-4)
+- [User Persona](https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=158-433&t=q0VfNfzQwHRqhJKN-4)
+- [User Journey Map](https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=190-1099&t=q0VfNfzQwHRqhJKN-4)
+- [LoFi Design & Prototype](https://www.figma.com/design/6tGY7n0fyn22JSvy5HTM8h/Connect-Final-Project?node-id=4623-5866)
+- [HiFi Design & Prototype](https://www.figma.com/design/6tGY7n0fyn22JSvy5HTM8h/Connect-Final-Project?node-id=3987-1958&t=0Qo6Hb7Y8Ck9mGRA-1)
+- [Flowchart](https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=193-1324&t=uLIfM6d0XnMY4tM2-4)
+- [UX Research Documentation](https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=140-488&t=o9R3a2uR8pMIp1yl-4)
+
+## 📞 Contact
 For more information or support, please contact the contributors or the SYNRGY Academy team.
 
 <div align="center"> Made with ❤️ by SYNRGY7 Kelompok 6 </div> ```
