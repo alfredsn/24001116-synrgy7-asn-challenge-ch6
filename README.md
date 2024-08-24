@@ -1,102 +1,100 @@
+<div align="center">
+
 # Connect - Final Project
 
-<div align='center'>
-<a href='https://github.com/SYNRGY7-Kelompok-6/connect-bca-mobile/releases'>
-<img src='https://img.shields.io/github/v/release/SYNRGY7-Kelompok-6/connect-bca-mobile?color=%23FDD835&label=version&style=for-the-badge'>
-</a>
+[![Release](https://img.shields.io/github/v/release/SYNRGY7-Kelompok-6/connect-bca-mobile?color=%23FDD835&style=for-the-badge)](https://github.com/SYNRGY7-Kelompok-6/connect-bca-mobile/releases)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+
+<p align="center">
+  <a href="#-project-overview">Overview</a> •
+  <a href="#-problem-statement">Problem</a> •
+  <a href="#-objective">Objective</a> •
+  <a href="#-features">Features</a> •
+  <a href="#-getting-started">Getting Started</a> •
+  <a href="#-usage">Usage</a> •
+  <a href="#-accessibility">Accessibility</a> •
+  <a href="#-android-team">Team</a> •
+  <a href="#-links">Links</a> •
+  <a href="#-contact">Contact</a>
+</p>
+
 </div>
 
-<br />
-<div align="center">
-<b><a href="#project-overview">PROJECT OVERVIEW</a> • 
-<a href="#problem-statement">PROBLEM STATEMENT</a> • 
-<a href="#objective">OBJECTIVE</a> • 
-<a href="#features">FEATURES</a> • 
-<a href="#getting-started">GETTING STARTED</a> • 
-<a href="#prerequisites">PREREQUISITES</a> • 
-<a href="#installation">INSTALLATION</a> • 
-<a href="#usage">USAGE</a> • 
-<a href="#accessibility">ACCESSIBILITY</a> • 
-<a href="#team">TEAM</a> • 
-<a href="#links">LINKS</a> • 
-<a href="#contact">CONTACT</a></b>
-</div>
-<br />
+## 🌟 Project Overview
 
-## **Project Overview**
-This project aims to enhance the accessibility of digital banking applications, particularly for visually impaired users. The application, **Connect**, is designed to make financial management through mobile and internet banking more inclusive and user-friendly.
+Connect is an innovative digital banking application designed to enhance accessibility for visually impaired users. Our mission is to make financial management through mobile and internet banking more inclusive and user-friendly.
 
-## **Problem Statement**
+## 🔍 Problem Statement
+
 Managing finances is a crucial part of daily life, and mobile banking applications are widely used for this purpose. However, many of these applications lack accessibility features, making them challenging for visually impaired users. This project addresses the need for an accessible digital banking solution tailored for the visually impaired community.
 
-## **Objective**
-- Improve the accessibility of digital banking applications.
-- Ensure the application is easy to use for visually impaired users.
-- Incorporate user feedback to continuously enhance the application's features.
+## 🎯 Objective
 
----
+- Improve the accessibility of digital banking applications
+- Ensure ease of use for visually impaired users
+- Incorporate user feedback to continuously enhance the application's features
 
-## **Features**
-- **Account Balance:** Real-time balance checking with toggleable visibility.
-- **Transaction History:** Detailed and filterable transaction records.
-- **QRIS Payments:** Quick and easy QR code-based payments and transfers.
-- **Fund Transfers:** Seamless money transfers between accounts.
-- **Profile Management:** Easy-to-update user profile information.
-- **Accessibility Mode:** Enhanced features for visually impaired users.
+## ✨ Features
 
----
+- 💰 **Account Balance:** Real-time balance checking with toggleable visibility
+- 📊 **Transaction History:** Detailed and filterable transaction records
+- 📱 **QRIS Payments:** Quick and easy QR code-based payments and transfers
+- 💸 **Fund Transfers:** Seamless money transfers between accounts
+- 👤 **Profile Management:** Easy-to-update user profile information
+- 🔍 **Accessibility Mode:** Enhanced features for visually impaired users
 
-## **Getting Started**
+## 🚀 Getting Started
+
 These instructions will guide you through setting up and running the Android project on your local machine for development and testing purposes.
 
-### **Prerequisites**
-- **Android Studio:** The official IDE for Android development.
-- **Java Development Kit (JDK):** Required for Android development (JDK 8 or higher recommended).
-- **Android SDK:** Ensure that the Android SDK is installed and up to date.
+### Prerequisites
 
-### **Installation**
-1. **Clone the Repository**
+- [Android Studio](https://developer.android.com/studio): The official IDE for Android development
+- Java Development Kit (JDK): JDK 8 or higher recommended
+- Android SDK: Ensure that the Android SDK is installed and up to date
 
-   ```bash
+### Installation
+
+1. Clone the repository
+   ```sh
    git clone https://github.com/SYNRGY7-Kelompok-6/connect-bca-mobile.git
-   ```
-   
----
 
-## **Usage**
-- **Login:** Enter your credentials.
-- **Navigate:** Use the accessible navigation bar to move through different sections.
-- **Check Balance:** View your real-time account balance on the home screen.
-- **Make Payments:** Use the QRIS feature for quick payments or transfer funds directly.
+Open the project in Android Studio
+Sync Gradle files
+Run the app on an emulator or physical device
 
----
+📱 Usage
 
-## **Accessibility**
-The application has been designed with accessibility in mind, featuring:
-- Screen reader support for visually impaired users.
-- High-contrast mode and customizable font sizes.
-- Voice commands for key functionalities.
+Login: Enter your credentials
+Navigate: Use the accessible navigation bar to move through different sections
+Check Balance: View your real-time account balance on the home screen
+Make Payments: Use the QRIS feature for quick payments or transfer funds directly
 
----
+🔍 Accessibility
+The application has been designed with accessibility as a priority, featuring:
 
-## **Android Team**
-- **Puay12**: Putri Ayu Nisa Az-Zahra *(PIC Android)*
-- **alfredsn**: Alfred Sahala Nainggolan *(Android Developer)*
-- **MZannn**: Muhammad Fauzan *(Android Developer)*
-- **Hen2721**: Hendardi Yoga Pratama *(Android Developer)*
+Screen reader support for visually impaired users
+High-contrast mode and customizable font sizes
+Voice commands for key functionalities
 
----
+👥 Android Team
+<img src="https://github.com/Puay12.png" width="75px" height="75px"><img src="https://github.com/alfredsn.png" width="75px" height="75px"><img src="https://github.com/MZannn.png" width="75px" height="75px"><img src="https://github.com/Hen2721.png" width="75px" height="75px">Putri Ayu Nisa Az-ZahraAlfred Sahala NainggolanMuhammad FauzanHendardi Yoga PratamaPIC AndroidAndroid DeveloperAndroid DeveloperAndroid DeveloperGitHubGitHubGitHubGitHub
+🔗 Links
 
-## **Links**
-- [Empathy Map](https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=193-1328&t=xx0sVpEItSuLakjr-4)
-- [User Persona](https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=158-433&t=q0VfNfzQwHRqhJKN-4)
-- [Customer Journey Map](https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=190-1099&t=q0VfNfzQwHRqhJKN-4)
-- [LoFi Design & Prototype](https://www.figma.com/design/6tGY7n0fyn22JSvy5HTM8h/Connect-Final-Project?node-id=4623-5866)
-- [Hifi Design & Prototype](https://www.figma.com/design/6tGY7n0fyn22JSvy5HTM8h/Connect-Final-Project?node-id=3987-1958&t=0Qo6Hb7Y8Ck9mGRA-1)
-- [Flowchart](https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=193-1324&t=uLIfM6d0XnMY4tM2-4)
-- [UX Research Documentation](https://www.figma.com/board/xIcNW5v748G5Dl9J8TkUhI/UX-Research-Kelompok-6?node-id=140-488&t=o9R3a2uR8pMIp1yl-4)
+Empathy Map
+User Persona
+Customer Journey Map
+LoFi Design & Prototype
+Hifi Design & Prototype
+Flowchart
+UX Research Documentation
 
----
-
-## **Contact**
+📞 Contact
 For more information or support, please contact the contributors or the SYNRGY Academy team.
+
+<div align="center">
+Made with ❤️ by SYNRGY7 Kelompok 6
+</div>
+```
