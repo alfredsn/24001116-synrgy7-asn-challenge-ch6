@@ -87,15 +87,34 @@ These instructions will guide you through setting up and running the Android pro
 
 ## 🔍 Accessibility
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Screen%20Reader-Support-blue?style=for-the-badge&logo=android" alt="Screen Reader Support">
-  <img src="https://img.shields.io/badge/High%20Contrast-Mode-purple?style=for-the-badge&logo=android" alt="High Contrast Mode">
-  <img src="https://img.shields.io/badge/Voice-Commands-green?style=for-the-badge&logo=android" alt="Voice Commands">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/screen-reader.svg" width="48" height="48" alt="Screen Reader">
+      <br>
+      <b>Screen Reader Support</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/adjust.svg" width="48" height="48" alt="High Contrast">
+      <br>
+      <b>High-Contrast Mode</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microphone.svg" width="48" height="48" alt="Voice Commands">
+      <br>
+      <b>Voice Commands</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">For visually impaired users</td>
+    <td align="center">Customizable font sizes</td>
+    <td align="center">For key functionalities</td>
+  </tr>
+</table>
 
 ## 👥 Android Team
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><a href="https://github.com/Puay12"><img src="https://github.com/Puay12.png" width="100px;" alt=""/><br /><sub><b>Putri Ayu Nisa Az-Zahra</b></sub></a><br />PIC Android</td>
     <td align="center"><a href="https://github.com/alfredsn"><img src="https://github.com/alfredsn.png" width="100px;" alt=""/><br /><sub><b>Alfred Sahala Nainggolan</b></sub></a><br />Android Developer</td>
