@@ -57,44 +57,37 @@ These instructions will guide you through setting up and running the Android pro
 
 ### Installation
 
-1. Clone the repository
+1. **Clone the repository:**
    ```sh
    git clone https://github.com/SYNRGY7-Kelompok-6/connect-bca-mobile.git
-
-Open the project in Android Studio
-Sync Gradle files
-Run the app on an emulator or physical device
-
+Open the project in Android Studio.
+Sync Gradle files.
+Run the app on an emulator or physical device.
 📱 Usage
-
-Login: Enter your credentials
-Navigate: Use the accessible navigation bar to move through different sections
-Check Balance: View your real-time account balance on the home screen
-Make Payments: Use the QRIS feature for quick payments or transfer funds directly
-
+Login: Enter your credentials.
+Navigate: Use the accessible navigation bar to move through different sections.
+Check Balance: View your real-time account balance on the home screen.
+Make Payments: Use the QRIS feature for quick payments or transfer funds directly.
 🔍 Accessibility
 The application has been designed with accessibility as a priority, featuring:
 
 Screen reader support for visually impaired users
 High-contrast mode and customizable font sizes
 Voice commands for key functionalities
-
 👥 Android Team
-<img src="https://github.com/Puay12.png" width="75px" height="75px"><img src="https://github.com/alfredsn.png" width="75px" height="75px"><img src="https://github.com/MZannn.png" width="75px" height="75px"><img src="https://github.com/Hen2721.png" width="75px" height="75px">Putri Ayu Nisa Az-ZahraAlfred Sahala NainggolanMuhammad FauzanHendardi Yoga PratamaPIC AndroidAndroid DeveloperAndroid DeveloperAndroid DeveloperGitHubGitHubGitHubGitHub
+Putri Ayu Nisa Az-Zahra - Android Developer
+Alfred Sahala Nainggolan - Android Developer
+Muhammad Fauzan - Android Developer
+Hendardi Yoga Pratama - Android Developer
 🔗 Links
-
 Empathy Map
 User Persona
 Customer Journey Map
 LoFi Design & Prototype
-Hifi Design & Prototype
+HiFi Design & Prototype
 Flowchart
 UX Research Documentation
-
 📞 Contact
 For more information or support, please contact the contributors or the SYNRGY Academy team.
 
-<div align="center">
-Made with ❤️ by SYNRGY7 Kelompok 6
-</div>
-```
+<div align="center"> Made with ❤️ by SYNRGY7 Kelompok 6 </div> ```
