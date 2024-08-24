@@ -86,31 +86,10 @@ These instructions will guide you through setting up and running the Android pro
 4. **Make Payments:** Use the QRIS feature for quick payments or transfer funds directly.
 
 ## 🔍 Accessibility
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/screen-reader.svg" width="48" height="48" alt="Screen Reader">
-      <br>
-      <b>Screen Reader Support</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/adjust.svg" width="48" height="48" alt="High Contrast">
-      <br>
-      <b>High-Contrast Mode</b>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microphone.svg" width="48" height="48" alt="Voice Commands">
-      <br>
-      <b>Voice Commands</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">For visually impaired users</td>
-    <td align="center">Customizable font sizes</td>
-    <td align="center">For key functionalities</td>
-  </tr>
-</table>
+The application has been designed with accessibility as a priority, featuring:
+- Screen reader support for visually impaired users
+- High-contrast mode and customizable font sizes
+- Voice commands for key functionalities
 
 ## 👥 Android Team
 
@@ -136,8 +115,12 @@ These instructions will guide you through setting up and running the Android pro
 </p>
 
 ## 📞 Contact
-  *For more information or support, please contact the contributors or the **SYNRGY Academy team**.*
-  
+  <p align="center">For more information or support, please contact the contributors or the SYNRGY Academy team.</p>
+
 ---
 
-<div align="center"> Made with ❤️ by SYNRGY7 Kelompok 6 </div>
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
+  <br>
+  <img src="https://img.shields.io/badge/SYNRGY7-Kelompok%206-00C7B7?style=for-the-badge&logo=android&logoColor=white" alt="SYNRGY7 Kelompok 6">
+</div>
