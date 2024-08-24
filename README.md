@@ -48,19 +48,16 @@ Managing finances is a crucial part of daily life, and mobile banking applicatio
 - 👤 **Profile Management:** Easy-to-update user profile information
 - 🔍 **Accessibility Mode:** Enhanced features for visually impaired users
 
-<details>
-  <summary>🛠 Tech Stack</summary>
-  
-  The application leverages a robust set of technologies and frameworks to ensure a scalable, maintainable, and high-performance solution:
+## 🛠 Tech Stack
 
-  - **MVVM Architecture:** Separation of concerns with clear layers for better testability and maintainability.
-  - **Retrofit:** A type-safe HTTP client for consuming RESTful APIs.
-  - **Modularization:** Break down the application into smaller, self-contained modules for better organization and reusability.
-  - **Dependency Injection with Koin:** Simplifies the management of dependencies and allows for better testability.
-  - **Firebase:** Used for real-time data management, authentication, and cloud storage.
-  - **Mockito:** For unit testing, enabling the simulation of dependencies and verification of interactions.
-  
-</details>
+<p align="center">
+  <img src="https://img.shields.io/badge/MVVM-Architecture-blue?style=for-the-badge&logo=android" alt="MVVM">
+  <img src="https://img.shields.io/badge/Retrofit-HTTP%20Client-orange?style=for-the-badge&logo=square" alt="Retrofit">
+  <img src="https://img.shields.io/badge/Modularization-Structure-green?style=for-the-badge&logo=android" alt="Modularization">
+  <img src="https://img.shields.io/badge/Koin-Dependency%20Injection-red?style=for-the-badge&logo=koin" alt="Koin">
+  <img src="https://img.shields.io/badge/Firebase-Services-yellow?style=for-the-badge&logo=firebase" alt="Firebase">
+  <img src="https://img.shields.io/badge/Mockito-Testing-lightgrey?style=for-the-badge&logo=junit5" alt="Mockito">
+</p>
 
 ## 🚀 Getting Started
 
