@@ -48,7 +48,7 @@ These instructions will guide you through setting up and running the Submission 
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/eventku.git
+   git clone https://github.com/alfredsn/24001116-synrgy7-asn-challenge-ch6.git
 
 2. **Open the project in Android Studio**
 3. **Sync Gradle files**
